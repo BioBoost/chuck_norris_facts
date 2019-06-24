@@ -2,6 +2,8 @@
 
 The real chuck
 
+![Chuck Norris](./img/73040_v9_ba.jpg)
+
 ## Some Facts
 
 * Death once had a near-Chuck-Norris experience.
