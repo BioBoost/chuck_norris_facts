@@ -14,3 +14,7 @@ The real chuck
 ## Disclaimer
 
 Not my fault
+
+## Author
+
+Nico De Witte
